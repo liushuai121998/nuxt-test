@@ -1,7 +1,7 @@
 <template>
     <div>
-        <div>/user</div>
-        <a href="/user/one">to one</a>
+        <h1>Welcome!</h1>
+        <nuxt-link to="/user/one">to one</nuxt-link>
     </div>
 </template>
 
